@@ -1,2 +1,2 @@
 Hello This is Chetan this side,
-so im a student currently pursuing engineering so the main sole purpose of creating this git is to potray my projects and also help others out others so please drop some suggestions  to my mail id if there are errors or could be done better... =)
+so I'm a student currently pursuing engineering so the main sole purpose of creating this git is to potray my projects and also help others out others so please drop some suggestions  to my mail id if there are errors or could be done better... =)
